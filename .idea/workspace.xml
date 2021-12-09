@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3ace29-8cde-43ed-8a95-9a9371d17c5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/Niteeshkanungo@gmail.com.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv/Niteeshkanungo@gmail.com.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +34,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="bd0761f1-5584-4074-8e36-89ae98bfcb76" />
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="820" />
   </component>
   <component name="ProjectId" id="222JaBkQOA230CsxyVTaJ3N7BQC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,6 +66,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cv" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -70,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549502232410</updated>
       <workItem from="1549502234042" duration="1639000" />
-      <workItem from="1639029810603" duration="81000" />
+      <workItem from="1639029810603" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="added work experience">
       <created>1549504300804</created>
@@ -100,5 +113,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added work experience" />
     <option name="LAST_COMMIT_MESSAGE" value="added work experience" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1180" y="483" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639030481933">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1180" y="483" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.3440.1415/-1733.773.1733.1095@0.25.3440.1415" timestamp="1639029999081" />
+    <state x="1180" y="483" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.3440.1415/-1735.773.1735.1095@0.25.3440.1415" timestamp="1639030481933" />
+    <state width="2843" height="263" key="GridCell.Tab.0.bottom" timestamp="1639029934836">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2843" height="263" key="GridCell.Tab.0.bottom/0.25.3440.1415/-1733.773.1733.1095@0.25.3440.1415" timestamp="1639029934836" />
+    <state width="2843" height="263" key="GridCell.Tab.0.center" timestamp="1639029934835">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2843" height="263" key="GridCell.Tab.0.center/0.25.3440.1415/-1733.773.1733.1095@0.25.3440.1415" timestamp="1639029934835" />
+    <state width="2843" height="263" key="GridCell.Tab.0.left" timestamp="1639029934834">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2843" height="263" key="GridCell.Tab.0.left/0.25.3440.1415/-1733.773.1733.1095@0.25.3440.1415" timestamp="1639029934834" />
+    <state width="2843" height="263" key="GridCell.Tab.0.right" timestamp="1639029934836">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2843" height="263" key="GridCell.Tab.0.right/0.25.3440.1415/-1733.773.1733.1095@0.25.3440.1415" timestamp="1639029934836" />
   </component>
 </project>
