@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc3ace29-8cde-43ed-8a95-9a9371d17c5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/Niteeshkanungo@gmail.com.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv/Niteeshkanungo@gmail.com.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549502232410</updated>
       <workItem from="1549502234042" duration="1639000" />
-      <workItem from="1639029810603" duration="813000" />
+      <workItem from="1639029810603" duration="1529000" />
     </task>
     <task id="LOCAL-00001" summary="added work experience">
       <created>1549504300804</created>
@@ -136,5 +134,9 @@
       <screen x="0" y="25" width="3440" height="1415" />
     </state>
     <state width="2843" height="263" key="GridCell.Tab.0.right/0.25.3440.1415/-1733.773.1733.1095@0.25.3440.1415" timestamp="1639029934836" />
+    <state x="1141" y="487" width="602" height="490" key="find.popup" timestamp="1639031335592">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1141" y="487" width="602" height="490" key="find.popup/0.25.3440.1415/-1733.773.1733.1095@0.25.3440.1415" timestamp="1639031335592" />
   </component>
 </project>
